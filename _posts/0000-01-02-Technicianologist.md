@@ -2,6 +2,8 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+>No problem can withstand the assault of sustained thinking.
+>
+> -- <cite>Voltaire</cite>
+> 
 Use the left arrow to go back!
-(Yes, I follow instructions literally)
